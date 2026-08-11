@@ -1,0 +1,3 @@
+# MD Simulation Automated — Python dependencies
+numpy
+networkx==1.11
