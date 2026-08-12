@@ -1,5 +1,5 @@
 # MD Simulation Automated
-
+<div align="justify">
 ### An Automated CHARMM36 Protein–Ligand Molecular Dynamics Workflow for GROMACS
 
 MD Simulation Automated is a scripted, end-to-end molecular dynamics (MD) pipeline that takes a prepared protein–ligand complex and produces an equilibrated, production-ready GROMACS system — including CHARMM-GUI-style ligand parameterisation, topology assembly, solvation, ion neutralisation, energy minimisation, and NVT/NPT equilibration.
@@ -10,7 +10,6 @@ Developed and maintained by the **Evo Biology and Bioinformatics Research Group 
 
 ---
 
-<div align="justify">
 
 
 ## Table of Contents
